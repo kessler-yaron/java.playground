@@ -3,4 +3,4 @@
  * @nickname Jron :)
  */
 
-package playground.basic;
+package playground.core;
