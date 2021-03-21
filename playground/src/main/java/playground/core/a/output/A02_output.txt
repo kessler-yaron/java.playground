@@ -1,0 +1,7 @@
+char / Character (16 bit / 2 byte)  == 
+byte (8 bit / 1 byte) == -128 <--> 127
+short (16 bit / 2 byte) == -32768 <--> 32767
+int / Integer (32 bit / 4 byte) == -2147483648 <--> 2147483647
+long (64 bit / 8 byte)  == -9223372036854775808 <--> 9223372036854775807
+foat (32 bit / 4 byte) == 1.4E-45 <--> 3.4028235E38
+double (64 bit / 8 byte) == 4.9E-324 <--> 1.7976931348623157E308

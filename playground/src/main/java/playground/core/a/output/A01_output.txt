@@ -1,0 +1,4 @@
+---[ variable  type and value ]------------
+boolean  false
+char Icon  A
+char Icon Number  C

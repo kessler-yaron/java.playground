@@ -3,7 +3,7 @@
  * @nickname Jron :)
  */
 
-package playground.core;
+package playground.core.a.code;
 
 public class HelloWorld {
 
