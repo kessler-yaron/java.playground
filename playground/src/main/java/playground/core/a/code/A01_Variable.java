@@ -4,7 +4,7 @@
  */
 package playground.core.a.code;
 
-public class A01_javaBasicVariable {
+public class A01_Variable {
 
 	private boolean flag = false;
 	private char charIcon = 'A';
@@ -21,8 +21,10 @@ public class A01_javaBasicVariable {
 
 	private String Describe = "String is an Object and not a primitive variable. ";
 
-	public A01_javaBasicVariable() {
-		System.out.println("---[ variable  type and value ]------------");
+	public A01_Variable() {
+		System.out.println("");
+		System.out.println("---[ variable type and value ]------------");
+		System.out.println("");
 		System.out.println("boolean  " + flag);
 		System.out.println("char Icon:  " + charIcon);
 		System.out.println("char Icon Number " + byteNumber + " equal to charIcon: " + charIconNumber);
@@ -35,6 +37,6 @@ public class A01_javaBasicVariable {
 		System.out.println("PI: " + PI);
 		System.out.println("intCount: " + intCount);
 		System.out.println("Describe: " + Describe);
-		
+		System.out.println("");
 	}
 }
