@@ -1,14 +1,22 @@
 /**
- * @author kessler Yaron
- * @nickname Jron :)
+ *+----------------------------------------+
+ *| A04_Variable_Math_Primitive_Operators  | 
+ *| code description                       |
+ *+----------------------------------------+
+ *| @author kessler Yaron                  |
+ *| @nickname Jron :)                      |
+ *+----------------------------------------+
  */
+ 
 package playground.core.a.code;
 
 public class A04_Variable_Math_Primitive_Operators {
 
 	public A04_Variable_Math_Primitive_Operators() {
 		
+		//
 		// variable declaration with assignment of primitive math calculation result .
+		//
 		int sumAddition = 50 + 10; // ==60
 		int sumSubtraction = 1000 - 10; // ==990
 		int sumMultiplication = 5 * 2; //==10

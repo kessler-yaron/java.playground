@@ -1,0 +1,14 @@
+
+---[ prefix ]------------
+
+---[ prefix -and- increment ]------------
+a == 10
+b = ++a
+a = 11
+b = 11
+
+---[ prefix -and- decrement ]------------
+a == 20
+b = --a
+a = 19
+b = 19

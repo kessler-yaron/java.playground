@@ -1,0 +1,13 @@
+
+---[ incrementValue / decrementValue ]------------
+
+Initial value
+incrementValue:: 10 decrementValue:: 20
+
+incrementValue++ 
+decrementValue--
+incrementValue:: 11 decrementValue:: 19
+
+++incrementValue 
+--decrementValue
+incrementValue:: 12 decrementValue:: 18

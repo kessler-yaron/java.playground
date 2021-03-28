@@ -8,10 +8,6 @@
  *+----------------------------------------+
  */
 
-/**
- * @author kessler Yaron
- * @nickname Jron :)
- */
 package playground.core.a.code;
 
 public class A03_javaBasicVariable_Reserved_words {

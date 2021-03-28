@@ -1,0 +1,8 @@
+
+---[ Math Primitive Operators ]------------
+
+(Addition)::  6 + 2 = 8
+(Subtraction)::  6 - 2 = 4
+(Multiplication)::  6 * 2 = 12
+(Division)::  6 / 2 = 3
+(Modulo)::  6 % 2 = 0
