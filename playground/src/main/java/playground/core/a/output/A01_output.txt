@@ -1,4 +1,16 @@
----[ variable  type and value ]------------
+
+---[ variable type and value ]------------
+
 boolean  false
-char Icon  A
-char Icon Number  C
+char Icon:  A
+char Icon Number 67 equal to charIcon: C
+byteNumber: 67
+shortNumber: 32767
+intNumber: 2147483647
+longNumber: 923372037
+floatNumber: 3.2
+doubleNumber: 3.32343234E8
+PI: 3.1415929
+intCount: 0
+Describe: String is an Object and not a primitive variable. 
+

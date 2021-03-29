@@ -16,6 +16,5 @@ public class A03_Variable_Reserved_words {
 		System.out.println("catch, extends, int, short, try, char, final, interface, static, void, ");
 		System.out.println("class, finally, long, strictfp, volatile, const, float, native, super, while ");
 		System.out.println("");		
-
 	}
 }
