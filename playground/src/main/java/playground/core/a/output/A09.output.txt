@@ -1,0 +1,7 @@
+
+---[ Java Arithmetic - Assignment Operators - mixed types ]------------
+
+(intResult = int / int)  ==>  ( intResult = 10 / 4 )  =  2
+(intResult = int / (int)float)  ==>  ( intResult = 10 / 2.0 )  =  5
+(float = float / float) ==> ( fltResult = 10 / 4)  =  2.0
+(it = (int)float / (int)float) ==> ( intResult = 10.0 / 2.0)  =  5

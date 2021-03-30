@@ -1,0 +1,16 @@
+
+---[ System.out.   println()  /  printf() ]------------
+
+println() output method
+(10) 20
+(1099) 2099
+(10999) 20999
+(1099) 2099
+(10) 20
+
+printf() format output method
+(   10)    20 
+(  109)   119 
+( 1009)  1019 
+(  109)   119 
+(   10)    20 
