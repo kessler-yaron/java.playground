@@ -10,7 +10,7 @@ public class A00_playground_core {
 //		new A04_Variable_Math_Primitive_Operators();
 //		new A05_Variable_Math_increment_decrement();
 //		new A06_Variable_Math_prefix();
-//		new A07_Variable_Math_postfix();
-		new A08_Variable_Math_Arithmetic_Operators_Shorthand();
+		new A07_Variable_Math_postfix();
+//		new A08_Variable_Math_Arithmetic_Operators_Shorthand();
 	}
 }

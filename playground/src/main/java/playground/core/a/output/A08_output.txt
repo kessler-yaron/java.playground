@@ -1,0 +1,14 @@
+
+---[ postfix ]------------
+
+---[ postfix -and- increment ]------------
+a == 10
+b = a++
+b = 10
+a = 11
+
+---[ postfix -and- decrement ]------------
+a == 20
+b = a--
+b = 20
+a = 19
