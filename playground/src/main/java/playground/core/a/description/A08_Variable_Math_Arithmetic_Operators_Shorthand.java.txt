@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 **
+=======
+ /**
+>>>>>>> 40668e717a7d67f55a31137ed0420d879e046277
  *+--------------------------------------------------+
  *| A08_Variable_Math_Arithmetic_Operators_Shorthand | 
  *| code description                                 |
@@ -7,7 +11,10 @@
  *| @nickname Jron :)                                |
  *+--------------------------------------------------+
  */
+<<<<<<< HEAD
  
+=======
+>>>>>>> 40668e717a7d67f55a31137ed0420d879e046277
 package playground.core.a.code;
 
 public class A08_Variable_Math_Arithmetic_Operators_Shorthand {
@@ -16,6 +23,7 @@ public class A08_Variable_Math_Arithmetic_Operators_Shorthand {
 
 		int number = 10;
 		
+<<<<<<< HEAD
 		System.out.println("\nJava Arithmetic Operators Short hand\n");
 		System.out.println("number = " + number);
 		
@@ -47,5 +55,25 @@ public class A08_Variable_Math_Arithmetic_Operators_Shorthand {
 		System.out.println("*** modulo int to float ==> " + num1 + " / " + num2 + " === " + (flNumber = num1 / num2 ) );
 		
 
+=======
+		System.out.println("");	
+		System.out.println("---[ Java Arithmetic - Assignment Operators - Short hand ]------------");
+		System.out.println("");
+		
+//  +=
+		System.out.println(" (number == "+ number +") ==> (number = number + 2) ==>   (number += 2) = " + (number += 2));
+		
+//  -=
+		System.out.println(" (number == "+ number +") ==> (number = number - 3) ==>   (number -= 3) = " + (number -= 3));
+
+//  *=
+		System.out.println(" (number == "+ number +") ==> (number = number * 4) ==>   (number *= 4) = " + (number *= 4));
+
+//  /=
+		System.out.println(" (number == "+ number +") ==> (number = number / 3) ==>   (number /= 3) = " + (number /= 3));
+		
+//  %=
+		System.out.println(" (number == "+ number +") ==> (number = number % 5) ==>   (number %= 4) = " + (number %= 5));
+>>>>>>> 40668e717a7d67f55a31137ed0420d879e046277
 	}
 }
