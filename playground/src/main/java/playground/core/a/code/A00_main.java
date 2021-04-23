@@ -1,9 +1,9 @@
 package playground.core.a.code;
 
-public class A00_playground_core {
+public class A00_main {
 	
-	public A00_playground_core() {
-		new HelloWorld();
+	public A00_main() {
+//		new HelloWorld();
 //		new A00_system_out();
 //		new A01_Variable();
 //		new A02_Variable_value();
@@ -11,14 +11,9 @@ public class A00_playground_core {
 //		new A04_Variable_Math_Primitive_Operators();
 //		new A05_Variable_Math_increment_decrement();
 //		new A06_Variable_Math_prefix();
-<<<<<<< HEAD
-		new A07_Variable_Math_postfix();
-//		new A08_Variable_Math_Arithmetic_Operators_Shorthand();
-=======
 //		new A07_Variable_Math_postfix();
 //		new A08_Variable_Math_Arithmetic_Operators_Shorthand();
 //		new A09_Variable_Math_Arithmetic_Operators_mixed_types();
-
->>>>>>> 40668e717a7d67f55a31137ed0420d879e046277
+		new A10_Variable_Escaped_Characters();
 	}
 }

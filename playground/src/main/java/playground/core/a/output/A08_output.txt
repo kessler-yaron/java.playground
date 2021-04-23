@@ -1,14 +1,8 @@
 
----[ postfix ]------------
+---[ Java Arithmetic - Assignment Operators - Short hand ]------------
 
----[ postfix -and- increment ]------------
-a == 10
-b = a++
-b = 10
-a = 11
-
----[ postfix -and- decrement ]------------
-a == 20
-b = a--
-b = 20
-a = 19
+ (number == 10) ==> (number = number + 2) ==>   (number += 2) = 12
+ (number == 12) ==> (number = number - 3) ==>   (number -= 3) = 9
+ (number == 9) ==> (number = number * 4) ==>   (number *= 4) = 36
+ (number == 36) ==> (number = number / 3) ==>   (number /= 3) = 12
+ (number == 12) ==> (number = number % 5) ==>   (number %= 4) = 2

@@ -7,9 +7,6 @@
  *| @nickname Jron :)             |
  *+-------------------------------+
  */
- 
-//// package 
-package playground.core;
 
 //// class
 public class A02_javaBasicVariable_value {

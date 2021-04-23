@@ -1,9 +1,12 @@
-/**
- * @author kessler Yaron
- * @nickname Jron :)
- */
-package playground.core.a.code;
-
+ *+----------------------------------------------------+
+ *| A09_Variable_Math_Arithmetic_Operators_mixed_types | 
+ *| code description                                   |
+ *+----------------------------------------------------+
+ *| @author kessler Yaron                              |
+ *| @nickname Jron :)                                  |
+ *+----------------------------------------------------+
+  */
+ 
 public class A09_Variable_Math_Arithmetic_Operators_mixed_types {
 
 	public A09_Variable_Math_Arithmetic_Operators_mixed_types() {

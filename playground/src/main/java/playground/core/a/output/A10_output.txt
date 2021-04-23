@@ -1,0 +1,13 @@
+
+---[ Java Arithmetic - Variable Escaped Characters ]------------
+
+backSpace 
+formFeed 
+
+lineFeed before and after current line 
+
+carriageReturn / Enter 
+	horizontalTab	
+'singleQuote'
+"doubleQuote"
+\backSlash\

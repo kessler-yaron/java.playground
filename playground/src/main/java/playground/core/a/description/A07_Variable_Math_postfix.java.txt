@@ -7,8 +7,6 @@
  *| @nickname Jron :)                      |
  *+----------------------------------------+
  */
- 
-package playground.core.a.code;
 
 public class A07_Variable_Math_postfix {
 

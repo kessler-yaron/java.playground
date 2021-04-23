@@ -8,8 +8,6 @@
  *+----------------------------------------+
  */
 
-package playground.core.a.code;
-
 public class A03_javaBasicVariable_Reserved_words {
 
 	public A03_javaBasicVariable_Reserved_words() {

@@ -13,11 +13,11 @@ public class A01_Variable {
 	private short shortNumber = 32767;
 	private int intNumber = 2147483647;
 	private long longNumber = 923372037;
-	private float floatNumber =  3.2F;
+	private float floatNumber = 3.2F;
 	private double doubleNumber = 332343234D;
 
-	private static final double PI = 3.1415929;
-	public static int intCount = 0;
+	private static final double PI = 3.1415929; // constant
+	public static int intCount = 0; // class variable
 
 	private String Describe = "String is an Object and not a primitive variable. ";
 

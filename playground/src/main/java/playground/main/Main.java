@@ -4,13 +4,13 @@
  */
 package playground.main;
 
-import playground.core.a.code.A00_playground_core;
+import playground.core.a.code.A00_main;
 
 public class Main {
 
 // constructor
 	public Main() {
-		new A00_playground_core();
+		new A00_main();
 	}
 
 // main
